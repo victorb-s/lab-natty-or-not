@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Pokémon na vida real
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando de uma I.A. generativa, solicitei imagens de pokémons na vida real, como seria conviver com essas criaturas no dia a dia. No geral, enfrentei dificuldades para gerar uma imagem coerente, e na mais aceitável que consegui ainda é vivível diversos problemas, I.A. generativa para imagens ainda é algo que pode ser muito desenvolvido, apesar de já existirem grandes avanços na área, não é considerado ainda um concorrente real à artistas reais. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Leonardo.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao prompt "Imagine um mundo de convivência entre pokemons e seres humanos, so que na vida real, forneça imagens de como seria essa cohabitação."
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Default_Imagine_um_mundo_de_convivncia_entre_pokemons_e_seres_1 (2)](https://github.com/victorb-s/lab-natty-or-not/assets/114593367/07a07a45-a370-4d21-a2d4-a56c4a3681cd)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Como dito anteriormente, não acredito que as I.As (atualmente) consigam competir com artistas reais. É notável os problemas de imagens geradas por estas tecnologias para a grande massa das pessoas.
